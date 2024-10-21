@@ -45,7 +45,7 @@ const Navbar = () => {
           <img
             src={logo}
             alt="logo"
-            className="w-16 h-16 object-center rounded-full"
+            className="w-20 h-20 object-center rounded-full"
           />
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
             Vishakh Sharma &nbsp;

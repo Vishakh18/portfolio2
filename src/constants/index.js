@@ -46,7 +46,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Content Creation",
     icon: creator,
   },
 ];
@@ -86,10 +86,6 @@ const technologies = [
     name: "git",
     icon: git,
   },
-  {
-    name: "figma",
-    icon: figma,
-  },
 ];
 
 const experiences = [
@@ -105,21 +101,21 @@ const experiences = [
 
     iconBg: "#383E56",
 
-    points: ["Tailwind CSS", "Figma", "Three.js "],
+    points: ["Figma", "Three.js ", "HTML/CSS"],
   },
   {
     title: "Programming & Development",
 
     iconBg: "#383E56",
 
-    points: ["HTML/CSS", "Javascript", "Python", "React.js"],
+    points: ["Javascript", "Python", "C++"],
   },
   {
     title: "Creator",
 
     iconBg: "#383E56",
 
-    points: ["Adobe Photoshop", "Video Editing", "Music Editor"],
+    points: ["Adobe Photoshop", "Video Editing"],
   },
 ];
 
