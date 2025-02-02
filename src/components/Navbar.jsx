@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { styles } from "../styles";
 import { navLinks } from "../constants";
 import { logo, menu, close } from "../assets";
-import resume from "../assets/vishakhresumeupdated.pdf";
+import resume from "../assets/VishakhResume.pdf";
 const Navbar = () => {
   const [active, setActive] = useState("");
   const [toggle, setToggle] = useState(false);
@@ -45,7 +45,7 @@ const Navbar = () => {
           <img
             src={logo}
             alt="logo"
-            className="w-20 h-20 object-center rounded-full"
+            className=" h-16 w-14 object-fill rounded-xl"
           />
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
             Vishakh Sharma &nbsp;
